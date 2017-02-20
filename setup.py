@@ -8,7 +8,7 @@ except:
 
 setup(
     name='django-pgviews',
-    version='0.3.0',
+    version='0.3.0wf',
     description="Create and manage Postgres SQL Views in Django",
     long_description=LONG_DESCRIPTION,
     author='Scott Walton',
